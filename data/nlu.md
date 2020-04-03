@@ -29,6 +29,7 @@
 - what is my account balance
 - what's my account balance?
 - what's my account balance
+- my account bALANCE
 
 ## intent:check_earnings
 - How much money went into my account last month?
@@ -40,7 +41,7 @@
 - how much was deposited in my account in the last two weeks?
 - check deposits for last week
 - total deposits over last year
-- how much was deposited in January 
+- how much was deposited in January
 
 ## intent:deny
 - not really
